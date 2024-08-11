@@ -4,3 +4,4 @@ repo = "git@github.com:mdp-aerosol-group/registry.git"
 description = "Petters Aerosol Group Registry"
 
 [packages]
+050a7be8-18f9-52d6-bdba-0a194485d082 = { name = "DifferentialMobilityAnalyzers", path = "D/DifferentialMobilityAnalyzers" }
