@@ -5,3 +5,4 @@ description = "Petters Aerosol Group Registry"
 
 [packages]
 050a7be8-18f9-52d6-bdba-0a194485d082 = { name = "DifferentialMobilityAnalyzers", path = "D/DifferentialMobilityAnalyzers" }
+3395841d-9331-4dd3-aff4-323d07427c2c = { name = "UnipolarCharging", path = "U/UnipolarCharging" }
