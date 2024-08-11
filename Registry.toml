@@ -1,0 +1,6 @@
+name = "AerosolRegistry"
+uuid = "5c641185-443a-44c3-92f5-a6d6de0f7521"
+repo = "git@github.com:mdp-aerosol-group/registry.git"
+description = "Petters Aerosol Group Registry"
+
+[packages]
