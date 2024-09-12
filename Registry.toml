@@ -8,3 +8,4 @@ description = "Petters Aerosol Group Registry"
 13a5dcd1-fa46-5f5c-a4e8-ed6ffcaaca62 = { name = "LabjackU6Library", path = "L/LabjackU6Library" }
 2adfc2c7-75f2-4d70-8938-a2b68ce5239c = { name = "CondensationParticleCounters", path = "C/CondensationParticleCounters" }
 3395841d-9331-4dd3-aff4-323d07427c2c = { name = "UnipolarCharging", path = "U/UnipolarCharging" }
+b5f27b7f-6476-43ad-863c-4b79adf8b5df = { name = "PrintedOpticalParticleSpectrometer", path = "P/PrintedOpticalParticleSpectrometer" }

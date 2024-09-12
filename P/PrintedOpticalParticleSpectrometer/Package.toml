@@ -1,0 +1,3 @@
+name = "PrintedOpticalParticleSpectrometer"
+uuid = "b5f27b7f-6476-43ad-863c-4b79adf8b5df"
+repo = "git@github.com:mdp-aerosol-group/PrintedOpicalParticleSpectrometer.jl.git"
