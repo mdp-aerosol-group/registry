@@ -18,5 +18,8 @@ A Julia package for working with differential mobility analyzers.
 ## LabjackU6Library
 A Julia driver to interface with the low-level C driver for the Labjack U6 device.
 
+## PrintedOpticalParticleSpectrometer
+Standalone serial port interface for the Handix Scientific POPS
+
 ## UnipolarCharging
 A Julia package for calculating field and diffusion charging by ion attachment.
