@@ -7,5 +7,6 @@ description = "Petters Aerosol Group Registry"
 050a7be8-18f9-52d6-bdba-0a194485d082 = { name = "DifferentialMobilityAnalyzers", path = "D/DifferentialMobilityAnalyzers" }
 13a5dcd1-fa46-5f5c-a4e8-ed6ffcaaca62 = { name = "LabjackU6Library", path = "L/LabjackU6Library" }
 2adfc2c7-75f2-4d70-8938-a2b68ce5239c = { name = "CondensationParticleCounters", path = "C/CondensationParticleCounters" }
+30921cf0-af7c-48d5-b503-5960a1d894d0 = { name = "SP2", path = "S/SP2" }
 3395841d-9331-4dd3-aff4-323d07427c2c = { name = "UnipolarCharging", path = "U/UnipolarCharging" }
 b5f27b7f-6476-43ad-863c-4b79adf8b5df = { name = "PrintedOpticalParticleSpectrometer", path = "P/PrintedOpticalParticleSpectrometer" }
